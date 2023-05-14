@@ -16,3 +16,8 @@ h1 {
     border-radius: 10px;
     text-align: center;
 }
+
+body {
+    font-size: 25px;
+    color: blue;
+}
