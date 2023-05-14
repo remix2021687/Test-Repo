@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #000;
+    background-color: black;
 }
 
 h1 {
@@ -17,6 +17,11 @@ h1 {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+}
+
+.topnav {
+    height: 20px;
+    background-color: red;
 }
 
 body {
