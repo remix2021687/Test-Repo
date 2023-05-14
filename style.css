@@ -6,10 +6,6 @@
     font-family: sans-serif;
 }
 
-body {
-    background-color: black;
-}
-
 h1 {
     color: whitesmoke;
     margin: 10px;
@@ -20,11 +16,16 @@ h1 {
 }
 
 .topnav {
-    height: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
     background-color: red;
 }
 
 body {
     font-size: 25px;
     color: blue;
+    background-color: gray;
 }
