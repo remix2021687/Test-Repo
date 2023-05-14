@@ -23,3 +23,8 @@ h1 {
     height: 20px;
     background-color: orange;
 }
+
+body {
+    font-size: 25px;
+    color: blue;
+}
